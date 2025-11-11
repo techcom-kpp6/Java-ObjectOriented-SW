@@ -4,7 +4,7 @@ public class Main
 	    int [][]Multi_tb = new int[13][13];
 	    int sum, mother = 12;
 	    for (int i=1; i<=mother; i++){
-	        System.out.printf("สูตรตุณแม่ %d\n\n",i);
+	        System.out.printf("สูตรคูณแม่ %d\n\n",i);
 	        for (int o=1; o<=mother; o++){
 	            sum = i*o;
 	            Multi_tb[i][o] = sum;
