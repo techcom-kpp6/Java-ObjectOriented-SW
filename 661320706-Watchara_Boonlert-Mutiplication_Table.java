@@ -1,5 +1,4 @@
-public class Main
-{
+public class Main{
 	public static void main(String[] args) {
 	    int [][]Multi_tb = new int[13][13];
 	    int sum, mother = 12;
