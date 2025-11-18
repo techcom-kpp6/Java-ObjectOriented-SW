@@ -17,18 +17,18 @@ public class Bank {
         System.out.println("Balance: " + balance);
     }
     public void deposit(double amount){
-        this.balance = balance + amount;      
+        balance = balance + amount;      
         System.out.println("Deposit: "+amount);
     }
     public void withdraw(double amount){
-        this.balance = balance - amount;      
+        balance = balance - amount;      
         System.out.println("Withdraw: "+amount);
     }
     public void ShowBalance(){
         System.out.println("------------------------");
-        System.out.println("AccountName: "+this.accountNumber);
-        System.out.println("OwnerName: "+this.ownerName);
-        System.out.println("Balance: "+this.balance);
+        System.out.println("AccountName: "+accountNumber);
+        System.out.println("OwnerName: "+ownerName);
+        System.out.println("Balance: "+balance);
         System.out.println("------------------------");
     }
     public static void main(String[] args) {
