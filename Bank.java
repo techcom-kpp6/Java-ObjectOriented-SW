@@ -32,7 +32,7 @@ public class Bank {
         System.out.println("------------------------");
     }
     public static void main(String[] args) {
-        Bank B = new Bank("00225", "KrungThai", 1000.f);
+        Bank B = new Bank("661320706", "KrungThai", 1000.f);
         B.ShowBalance();
         B.deposit(100);
         B.ShowBalance();
