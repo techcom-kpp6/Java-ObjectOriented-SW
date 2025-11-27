@@ -1,0 +1,15 @@
+@27.5|-16|0|-0.5269432|31.81588|89.5|233|
+@27.5|-8|1|-0.2830958|28.64001|89.5|241|
+@27.5|0|0|0|27.5|89.5|249|
+@27.5|8|1|0.2830958|28.64001|89.5|257|
+@27.5|16|0|0.5269432|31.81588|89.5|265|
+@0|-16|0|-1.570796|16|62|233|
+@0|0|0|0|0|62|249|
+@0|16|0|1.570796|16|62|265|
+@0|0|1|0|0|0|0|
+@vis_point=True
+@color_point=255,0,0,255
+@robot_type=10
+@ground_name=C:\Users\COM21\Downloads\C_robot_sim_for_Download-20251113T022639Z-1-001\C_robot_sim_for_Download\MapMission\mission11\mission11.png
+@trackline_filename=C:\Users\COM21\Desktop\New.trl
+@include_trackline=False
